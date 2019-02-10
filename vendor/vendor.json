@@ -1,0 +1,37 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "YdGi91Ni8IlbfOVEtCu2XHpBwX4=",
+			"path": "github.com/gorilla/websocket",
+			"revision": "7c8e298727d149d7c329b4dec7e94e1932ac5c11",
+			"revisionTime": "2018-12-18T07:24:45Z"
+		},
+		{
+			"checksumSHA1": "v+PlIBJEsZeJ8HNXA5EHTfW/jvE=",
+			"path": "github.com/nlopes/slack",
+			"revision": "a7deeca7935c178aa865249bab511daf816288ba",
+			"revisionTime": "2019-01-20T10:42:55Z"
+		},
+		{
+			"checksumSHA1": "qyYGIzIDhpvtt4ut9Ifnimtuc30=",
+			"path": "github.com/nlopes/slack/slackutilsx",
+			"revision": "a7deeca7935c178aa865249bab511daf816288ba",
+			"revisionTime": "2019-01-20T10:42:55Z"
+		},
+		{
+			"checksumSHA1": "0H/VjT8w1CB702qWpbYMqr65Mf0=",
+			"path": "github.com/pkg/errors",
+			"revision": "ffb6e22f01932bf7ac35e0bad9be11f01d1c8685",
+			"revisionTime": "2019-01-09T06:16:28Z"
+		},
+		{
+			"checksumSHA1": "Uw3DIioi+hd6B1v/wJZ8jdFrIfs=",
+			"path": "github.com/xanzy/go-gitlab",
+			"revision": "05a308d7d2907332e413f904c9aa0f3946eff57e",
+			"revisionTime": "2019-02-07T17:19:32Z"
+		}
+	],
+	"rootPath": "github.com/alexshin/gitlab-slack"
+}
